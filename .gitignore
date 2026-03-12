@@ -1,0 +1,14 @@
+# --- added by Arise before making repo public ---
+# Never commit env files / secrets
+**/.env
+**/.env.*
+
+# Python
+**/__pycache__/
+**/*.pyc
+
+# Logs
+**/*.log
+
+# Node
+**/node_modules/

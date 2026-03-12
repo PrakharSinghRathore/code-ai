@@ -1,0 +1,11 @@
+# Root requirements for RCM
+# Install all dependencies with: pip install -r requirements.txt
+
+# Backend dependencies
+flask>=2.3.0
+flask-cors>=4.0.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Frontend dependencies
+streamlit>=1.28.0
